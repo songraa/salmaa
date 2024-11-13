@@ -1,0 +1,58 @@
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\Faculty System.exe.config
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\Faculty System.exe
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\Faculty System.pdb
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.AssemblyReference.cache
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\LogIn.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\MainWindow.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\App.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System_MarkupCompile.cache
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System_MarkupCompile.lref
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\LogIn.baml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\MainWindow.baml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.g.resources
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty_System.Properties.Resources.resources
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.GenerateResource.cache
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.CoreCompileInputs.cache
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.exe
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System.pdb
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\SignUp.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\SignUp.baml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Admin.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Application.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Admin.baml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Application.baml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\EntityFramework.dll
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\EntityFramework.xml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty System_Content.g.cs
+C:\Users\sh2\source\repos\Faculty System\Faculty System\obj\Debug\Faculty .30506187.Up2Date
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\Faculty System.exe.config
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\Faculty System.exe
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\Faculty System.pdb
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Admin.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Application.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\LogIn.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\SignUp.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System_Content.g.cs
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System_MarkupCompile.cache
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System_MarkupCompile.lref
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Admin.baml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Application.baml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\LogIn.baml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\SignUp.baml
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.g.resources
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty .30506187.Up2Date
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.exe
+C:\Users\Admin\Desktop\Faculty System\Faculty System\obj\Debug\Faculty System.pdb
