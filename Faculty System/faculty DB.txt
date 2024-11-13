@@ -1,0 +1,17 @@
+create database Faculty;
+create table department
+(
+DepartmentId int primary key,
+DepartmentName varchar(200) not null
+);
+create table student 
+(
+StudentId int primary key,
+StudentName varchar(200) not null unique,
+Pass varchar(200) not null, 
+Email varchar(200) not null unique,
+Address varchar(200),
+age int,
+DepId int foreign key
+references department(DepartmentId)
+);
